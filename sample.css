@@ -69,4 +69,8 @@ body {
         padding: 10vw;
         border: none;
     }
+
+    #container {
+        padding: 0;
+    }
   }
